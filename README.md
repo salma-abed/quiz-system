@@ -1,2 +1,10 @@
-# quiz-system
-a simple application created for online quizzes via java GUI
+package QuizGUI;
+
+public class QuizGUI {
+
+    public static void main(String[] args) {
+        UserLoginPage u = new UserLoginPage();
+        u.Framee();
+   
+    }
+}
